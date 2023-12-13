@@ -11,3 +11,8 @@
 
 ## 官方项目地址
 https://github.com/mlrun/mlrun
+
+## 联系作者加入微信群
+<br/>
+<img width="1215" alt="image" src="https://github.com/ProductManage-Leo/allml/assets/142190938/a09677c9-ce6b-4585-b926-a9d2eff3be1a">
+<br/>
